@@ -1,0 +1,86 @@
+[
+    {
+        "name":"彭宥纶",
+        "title":"引力太空创始人 天娱传媒视觉总监",
+        "src":"../../../static/images/pers1.jpg",
+        "production":"56",
+        "like":"225",
+        "fans":"1430",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/gravity"
+    },
+    {
+        "name":"吴雨杭",
+        "title":"浙江卫视《奔跑吧兄弟》宣传片导演、浙江卫视吴雨杭工作室负责人",
+        "src":"../../../static/images/pers2.jpg",
+        "production":"14",
+        "like":"259",
+        "fans":"1228",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/u872135"
+    },
+    {
+        "name":"林",
+        "title":"1LIN1 Studios创始人，脑洞剧情&装置设计，lin@1lin1.com。",
+        "src":"../../../static/images/pers3.jpg",
+        "production":"59",
+        "like":"637",
+        "fans":"1471",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/1lin1studios"
+    },
+    {
+        "name":"T.G.M VIDEO PRODUCTION",
+        "title":"独立导演 剪辑师 T.G.M VIDEO PRODUCTION 影像厂牌创始人",
+        "src":"../../../static/images/pers4.jpg",
+        "production":"11",
+        "like":"115",
+        "fans":"440",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/T.G.MVIDEOPRODUCTI"
+    },
+    {
+        "name":"BlingBling于",
+        "title":"前 光线传媒 媒体制作人/大型活动视觉导演 于冰",
+        "src":"../../../static/images/pers5.jpg",
+        "production":"19",
+        "like":"80",
+        "fans":"163",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/u836338"
+    },
+    {
+        "name":"张大格",
+        "title":"北京电影学院2015届毕业生，毕业作品《再见318》。",
+        "src":"../../../static/images/pers6.jpg",
+        "production":"1",
+        "like":"95",
+        "fans":"200",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/u868312"
+    },
+    {
+        "name":"吴琼",
+        "title":"仅仅用自己的热情去完成自己的梦想罢了，喜欢电影，就这样",
+        "src":"../../../static/images/pers7.jpg",
+        "production":"14",
+        "like":"21",
+        "fans":"121",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/wuqiong.com"
+    }
+]

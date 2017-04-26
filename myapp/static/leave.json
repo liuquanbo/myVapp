@@ -1,0 +1,50 @@
+[
+    {
+        "name":"高远",
+        "title":"北京电影学院摄影系毕业，目前自由电影摄影师",
+        "src":"../../../static/images/leave1.jpg",
+        "production":"3",
+        "like":"45",
+        "fans":"29",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -552px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/u1234301"
+    },
+    {
+        "name":"易可",
+        "title":"除了能拍拍片子，其他什么也不会了",
+        "src":"../../../static/images/leave2.jpg",
+        "production":"19",
+        "like":"37",
+        "fans":"56",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/u850375"
+    },
+    {
+        "name":"Marlboro陈",
+        "title":"新锐广告导演，剧情片导演，获奖微电影《修行》",
+        "src":"../../../static/images/leave3.jpg",
+        "production":"12",
+        "like":"47",
+        "fans":"56",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/u799137"
+    },
+    {
+        "name":"兰晓伟",
+        "title":"现任江苏卫视制作部创意导演",
+        "src":"../../../static/images/leave4.jpg",
+        "production":"3",
+        "like":"32",
+        "fans":"39",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "href":"http://www.xinpianchang.com/u300680"
+    }
+]

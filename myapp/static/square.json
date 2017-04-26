@@ -1,0 +1,35 @@
+[
+    {
+        "title":"风筝",
+        "src":"../../../static/images/1.jpg",
+        "spanName":"高远",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a55487?from=square_recommend"
+    },
+    {
+        "title":"创作吧！少年第十三弹＃不负好食光＃短片征集中",
+        "src":"../../../static/images/3.jpg",
+        "href":"http://www.xinpianchang.com/activity/independence/ts-magicfood"
+    },
+    {
+        "title":"小情书 | 39 感情如人饮水，冷暖自知",
+        "src":"../../../static/images/2.jpg",
+        "spanName":"小情书LOVOTE",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a55325?from=square_recommend"
+    },
+    {
+        "title":"淘宝全球探鲜美国站-RIPNDIP",
+        "src":"../../../static/images/4.jpg",
+        "spanName":"周国俊",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a55755?from=square_recommend"
+    },
+    {
+        "title":"玲珑江南，执扇少年",
+        "src":"../../../static/images/5.jpg",
+        "spanName":"上海收乐网络科技有限公司",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a55542?from=square_recommend"
+    }
+]

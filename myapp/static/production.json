@@ -1,0 +1,80 @@
+[
+    {
+        "title":"江苏卫视音乐节目《金曲捞》——“唤醒金曲“音乐剧宣传片",
+        "src":"../../../static/images/pro1.jpg",
+        "spanName":"兰晓伟",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a55355",
+        "timesOfPlay":"1,050",
+        "like":"27",
+        "comment":"13",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "vtime":"01:05"
+    },
+     {
+        "title":"风筝",
+        "src":"../../../static/images/pro2.jpg",
+        "spanName":"高远",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a55487",
+        "timesOfPlay":"1,102",
+        "like":"18",
+        "comment":"14",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "vtime":"20:44"
+    },
+    {
+        "title":"概念广告|  天猫电器美家《发现生活的美好》导演剪辑版",
+        "src":"../../../static/images/pro3.jpg",
+        "spanName":"林璇翊Alexis",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a55487",
+        "timesOfPlay":"1,243",
+        "like":"13",
+        "comment":"6",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "vtime":"01:53"
+    },
+    {
+        "title":"侯孝贤：我的电影观",
+        "src":"../../../static/images/pro4.jpg",
+        "spanName":"clint cui",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a43943",
+        "timesOfPlay":"2,839",
+        "like":"41",
+        "comment":"9",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "vtime":"04:32"
+    },
+    {
+        "title":"小情书 | 39 感情如人饮水，冷暖自知",
+        "src":"../../../static/images/pro5.jpg",
+        "spanName":"小情书LOVOTE",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a55325",
+        "timesOfPlay":"54,807",
+        "like":"14",
+        "comment":"5",
+        "iconPosition":"-177px -521px",
+        "iconSize":"712px 1160px",
+        "vtime":"04:46"
+    },
+    {
+        "title":"玲珑江南，执扇少年",
+        "src":"../../../static/images/pro6.jpg",
+        "spanName":"上海收乐网络科技有限公司",
+        "icon":"../../../static/images/common-icon_2x.png",
+        "href":"http://www.xinpianchang.com/a43943",
+        "timesOfPlay":"54,807",
+        "like":"14",
+        "comment":"5",
+        "iconPosition":"-177px -552px",
+        "iconSize":"712px 1160px",
+        "vtime":"02:50"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "on":"0",
+        "navName":"广场",
+        "navTitle":"广场",
+        "to":"/"
+    },
+    {
+        "on":"1",
+        "navName":"作品",
+        "navTitle":"作品",
+        "to":"production"
+    },
+    {
+        "on":"2",
+        "navName":"文章",
+        "navTitle":"文章",
+        "to":"article"
+    },
+    {
+        "on":"3",
+        "navName":"创作人",
+        "navTitle":"创作人",
+        "to":"composer"
+    },
+    {
+        "on":"4",
+        "navName":"服务",
+        "navTitle":"服务",
+        "to":"serve"
+    }
+]
